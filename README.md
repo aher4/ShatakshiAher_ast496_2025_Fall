@@ -19,3 +19,13 @@ Instructions
     Solutions to homework assignments will be posted over the weekend after the Wednesday they were due
 
     You should also review slides and homework solutions to make sure you understand what is happening
+    
+    
+Adding to Repo
+	git add <file>
+	git commit -m "Comment"
+	git push
+
+Pulling from <main, origin, upstream>
+	git fetch <main, origin, upstream>
+	git merge upstream/main -m "Comment"
